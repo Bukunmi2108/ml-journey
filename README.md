@@ -35,10 +35,10 @@ Past projects didn't stick because there was no external structure enforcing con
 - [x] Create a GitHub repo called `ml-journey`. Initialize with a README that states your goal and timeline.
 - [x] Set up Google Colab — go to colab.research.google.com, sign in, create a test notebook, verify you can access a GPU (Runtime → Change runtime type → T4 GPU).
 - [x] Create a Kaggle account at kaggle.com. Verify your phone number — this is required to access free GPU quotas (30 hours/week of T4 GPU). Go to kaggle.com/learn to preview the micro-courses.
-- [ ] Install locally: Python 3.10+, VS Code, Git. Run `pip install torch torchvision numpy pandas matplotlib scikit-learn jupyter` to verify your environment works.
-- [ ] Create a Weights & Biases account at wandb.ai (free tier). You'll use this later for experiment tracking.
-- [ ] Create a folder structure in your repo: `/notebooks`, `/projects`, `/notes`, `/implementations`
-- [ ] Bookmark these URLs — you'll use them constantly:
+- [x] Install locally: Python 3.10+, VS Code, Git. Run `pip install torch torchvision numpy pandas matplotlib scikit-learn jupyter` to verify your environment works.
+- [x] Create a Weights & Biases account at wandb.ai (free tier). You'll use this later for experiment tracking.
+- [x] Create a folder structure in your repo: `/notebooks`, `/projects`, `/notes`, `/implementations`
+- [x] Bookmark these URLs — you'll use them constantly:
   - karpathy.ai/zero-to-hero.html
   - course.fast.ai
   - coursera.org/specializations/machine-learning-introduction
@@ -46,7 +46,7 @@ Past projects didn't stick because there was no external structure enforcing con
   - huggingface.co/learn
   - introtodeeplearning.com
   - cs231n.github.io
-- [ ] Post your Day 0 announcement on X.
+- [x] Post your Day 0 announcement on X.
 
 ---
 
