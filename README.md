@@ -32,9 +32,9 @@ Past projects didn't stick because there was no external structure enforcing con
 
 **Complete everything below in one sitting. Estimated time: 2 hours. Do not start Day 1 until this is done.**
 
-- [ ] Create a GitHub repo called `ml-journey`. Initialize with a README that states your goal and timeline.
-- [ ] Set up Google Colab — go to colab.research.google.com, sign in, create a test notebook, verify you can access a GPU (Runtime → Change runtime type → T4 GPU).
-- [ ] Create a Kaggle account at kaggle.com. Verify your phone number — this is required to access free GPU quotas (30 hours/week of T4 GPU). Go to kaggle.com/learn to preview the micro-courses.
+- [x] Create a GitHub repo called `ml-journey`. Initialize with a README that states your goal and timeline.
+- [x] Set up Google Colab — go to colab.research.google.com, sign in, create a test notebook, verify you can access a GPU (Runtime → Change runtime type → T4 GPU).
+- [x] Create a Kaggle account at kaggle.com. Verify your phone number — this is required to access free GPU quotas (30 hours/week of T4 GPU). Go to kaggle.com/learn to preview the micro-courses.
 - [ ] Install locally: Python 3.10+, VS Code, Git. Run `pip install torch torchvision numpy pandas matplotlib scikit-learn jupyter` to verify your environment works.
 - [ ] Create a Weights & Biases account at wandb.ai (free tier). You'll use this later for experiment tracking.
 - [ ] Create a folder structure in your repo: `/notebooks`, `/projects`, `/notes`, `/implementations`
