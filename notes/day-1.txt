@@ -1,0 +1,5 @@
+- Learnt the basics of linear algebra today.
+- Watched 3blue1brown chapter 1-4
+- Read a few blogs
+- Chatted with Claude about vectors, basis and matrices.
+~day one
