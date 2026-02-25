@@ -5,3 +5,5 @@ Today,
 - there are axioms, fundamental rules that guide deductive reasoning and mathematical thing and all.
 - functions were also proved to be vectors, don't yet know how that work?
 - basis vectors are linearly independent and they span across the whole vector space.
+
+~day-3
