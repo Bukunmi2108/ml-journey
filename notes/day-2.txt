@@ -1,0 +1,7 @@
+Today,
+
+- learnt determinants
+- learnt dot products
+- understood linear transfomations better
+
+~day-2
