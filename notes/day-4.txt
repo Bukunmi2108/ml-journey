@@ -1,0 +1,6 @@
+Today
+
+- Completed a refresher Python course on Kaggle
+- Learnt list, operators, conditional, list comprehension
+
+~day-4
