@@ -1,0 +1,8 @@
+Today
+
+- Learnt Pandas
+- DataFrame vs Series
+- loc vs iloc
+- groupby -> split-apply-combine
+
+~day-5
