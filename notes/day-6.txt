@@ -1,0 +1,10 @@
+Today
+
+- Learnt Data Visualization from Kaggle
+- Used Matplotlib and Seaborn
+- First EDA notebook on a gender/demographics dataset
+- Data cleaning: dropped empty column, stripped whitespace from column names, checked for nulls and duplicates
+- Univariate analysis: histograms (Age, Income), countplot (Gender), boxplot (Income outliers)
+- Bivariate analysis: Income by Gender boxplot, Income by Education Level boxplot, Age vs Income scatterplot, Occupation by Gender countplot
+
+~day-6
