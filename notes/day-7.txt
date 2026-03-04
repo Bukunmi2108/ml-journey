@@ -1,0 +1,33 @@
+# WEEK ONE REVIEW
+
+## Question ONE
+`What is a linear transformation?`
+~ first pass
+> Linear transformations are described as rotations, scaling, squishing and skewing that are applied to a set of vectors in a space. It being linear means that the mid point doe not move or change, the lines do not curve and must always be straight.
+
+~ second pass
+> Linear transformation is a mapping function that takes in a set of vector and `transforms` into other vector spaces by medium or rotation, scaling squishing and all. The origin point remains fixed, and the lines and diagonal straight. It also preserves the origin functions additive and multiplicative properties.
+
+## Question TWO
+`What does the determinant of a matrix tell you?`
+~first pass
+> The determinant of a two by two matric [[a,b],[c,d]] is gotten by ad - bc. The determinant is also the area of the space covered by the vectors in a 2d plane and volume is 3d. When the determinant is zero, the vectors are aligned on a single straight line, or the dimensions compressed into a smaller vector space. A zero determeinant can not be reversed as several vectors get squashed into a line or a point.
+
+~second pass
+>The determinant is a scalar value determined from a square matrix. Its values are used to calculate the scaling factor for linear transformations. Also used to calculate eigenvalues.
+
+## Question THREE
+`What are eigenvectors and why do they matter for ML?`
+~first pass
+> Eigen-vectors are specific vectors whose direction remain constant during specific linear tranformations. They can shrink or scale and maintian a constant direction. They are used in the calculation of SVD and PCA, determining the important features when transforming into lower dimensions. In ML, this is found very useful in dimensionality reduction.
+
+~second pass
+> Eigenvectors are special vectors associated with a linear transformation (represented by a matrix) that do not change their direction when that transformation is applied; they are only scaled (stretched or compressed) by a factor called the eigenvalue. In machine learning, eigenvectors are critical because they identify the "principal axes" or the most important directions of data, allowing for dimensionality reduction and improved computational efficiency. 
+
+## Question FOUR
+`What does .groupby() do in Pandas?`
+~first pass
+> Groupby is used in pandas to group related series together, hereby created a new dataframe. It is suitable for aggregation of correlated data by some columns or values
+
+~second pass
+>The pandas.DataFrame.groupby() method is a core function for data analysis that implements the "split-apply-combine" strategy. It groups data in a DataFrame or Series based on one or more criteria (e.g., a column's unique values) and allows you to apply functions to each group independently
