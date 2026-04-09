@@ -166,7 +166,7 @@ Implement in a notebook: write a function `numerical_derivative(f, x, h=1e-7)` t
 
 This seems simple. It is. And it's exactly what PyTorch's autograd does at scale.
 
-- [ ] ✅ Notebook: numerical derivatives, chain rule verification — pushed to GitHub
+- [x] ✅ Notebook: numerical derivatives, chain rule verification — pushed to GitHub
 
 ### Day 9 (Tuesday) ⏰ 3hrs
 **Calculus — Gradients and Neural Network Preview**
@@ -177,8 +177,8 @@ Write detailed notes connecting the calculus concepts to neural network training
 
 Then implement gradient descent from scratch on a simple function: find the minimum of f(x) = (x - 3)² + 2 by starting at a random x and iteratively stepping in the direction of -df/dx. Visualize the path it takes to the minimum.
 
-- [ ] ✅ Written notes: "How calculus connects to neural networks" (at least 1 page)
-- [ ] ✅ Notebook: gradient descent on a simple function with visualization — pushed to GitHub
+- [x] ✅ Written notes: "How calculus connects to neural networks" (at least 1 page)
+- [x] ✅ Notebook: gradient descent on a simple function with visualization — pushed to GitHub
 
 ### Day 10 (Wednesday) ⏰ 3hrs
 **Probability — Distributions and Bayes' Theorem**
@@ -189,7 +189,7 @@ Implement: write a simulation that flips a biased coin 10,000 times and plots th
 
 Why this matters: every classification model outputs probabilities. Every loss function is derived from probability theory. You need this to be intuitive, not memorized.
 
-- [ ] ✅ Notebook: probability simulations, Bayes' theorem, distribution visualizations — pushed to GitHub
+- [x] ✅ Notebook: probability simulations, Bayes' theorem, distribution visualizations — pushed to GitHub
 
 ### Day 11 (Thursday) ⏰ 3hrs
 **Loss Functions and Information Theory**
@@ -205,7 +205,7 @@ Implement from scratch in Python:
 
 After implementing these, you should be able to answer: "Why do we use cross-entropy instead of accuracy as a loss function?" If you can't, re-watch the StatQuest videos.
 
-- [ ] ✅ Notebook: loss functions implemented from scratch with visualizations and explanations — pushed to GitHub
+- [x] ✅ Notebook: loss functions implemented from scratch with visualizations and explanations — pushed to GitHub
 
 ### Day 12 (Friday) ⏰ 3hrs
 **Kaggle ML Courses Begin**
@@ -216,8 +216,8 @@ The exercises use the Melbourne Housing dataset. Pay careful attention to the tr
 
 After completing the course exercises, extend the final notebook: try at least 3 different values of `max_leaf_nodes` for the decision tree and plot the validation MAE for each. Find the optimal depth.
 
-- [ ] ✅ Kaggle Intro to ML certificate earned
-- [ ] ✅ Extended notebook with hyperparameter exploration — pushed to GitHub
+- [x] ✅ Kaggle Intro to ML certificate earned
+- [x] ✅ Extended notebook with hyperparameter exploration — pushed to GitHub
 
 ### Day 13 (Saturday — Project Day) ⏰ 4-5hrs
 **Intermediate ML + First Serious Preprocessing**
@@ -228,8 +228,8 @@ XGBoost deserves special attention. It wins most Kaggle tabular competitions. Un
 
 After completing the course, try XGBoost on the Melbourne Housing dataset and compare its performance to the random forest from yesterday.
 
-- [ ] ✅ Kaggle Intermediate ML certificate earned
-- [ ] ✅ XGBoost comparison notebook — pushed to GitHub
+- [x] ✅ Kaggle Intermediate ML certificate earned
+- [x] ✅ XGBoost comparison notebook — pushed to GitHub
 
 ### Day 14 (Sunday — Review + Consolidate) ⏰ 2hrs
 **Weekly Review + DSA Start**
@@ -242,9 +242,9 @@ Review all Week 2 notebooks. Self-test:
 
 Start your LeetCode practice: create an account, solve 2 Easy problems from the "Arrays" category. DSA practice continues in parallel from here — minimum 2 problems per week, ideally 3-5.
 
-- [ ] ✅ Self-test complete
-- [ ] ✅ 2 LeetCode Easy problems solved
-- [ ] ✅ Week 2 README update
+- [x] ✅ Self-test complete
+- [x] ✅ 2 LeetCode Easy problems solved
+- [x] ✅ Week 2 README update
 
 ---
 
