@@ -71,7 +71,7 @@ After watching each video, open a Google Colab notebook and implement what you j
 
 By end of day, you should be able to explain in your own words what a linear transformation is and demonstrate it with code.
 
-- [ ] ✅ Notebook: vector operations, dot products, matrix-vector multiplication, 2D transformation visualization — pushed to GitHub
+- [x] ✅ Notebook: vector operations, dot products, matrix-vector multiplication, 2D transformation visualization — pushed to GitHub
 
 ### Day 2 (Tuesday) ⏰ 3hrs
 **Linear Algebra — Matrix Operations**
@@ -80,7 +80,7 @@ Watch 3Blue1Brown videos 5–8: determinants, inverse matrices, column space/nul
 
 Implement in Colab: compute determinants with `np.linalg.det()`, find inverses with `np.linalg.inv()`, solve the system Ax = b using both `np.linalg.solve()` and by manually computing A⁻¹b. Then try a singular matrix (determinant = 0) and observe what happens when you try to invert it.
 
-- [ ] ✅ Notebook: determinants, matrix inverses, solving linear systems, singular matrix demonstration — pushed to GitHub
+- [x] ✅ Notebook: determinants, matrix inverses, solving linear systems, singular matrix demonstration — pushed to GitHub
 
 ### Day 3 (Wednesday) ⏰ 3hrs
 **Linear Algebra — Eigenvalues and Eigenvectors**
@@ -91,7 +91,7 @@ Why this matters for ML: Principal Component Analysis (PCA) finds the eigenvecto
 
 Implement: use `np.linalg.eig()` to find eigenvalues and eigenvectors. Create a 2x2 matrix, compute its eigenvectors, then apply the matrix to those eigenvectors and verify they only get scaled. Visualize this. Then apply PCA to a simple 2D dataset and show how the first principal component aligns with the dominant eigenvector.
 
-- [ ] ✅ Notebook: eigendecomposition, eigenvector visualization, simple PCA demonstration — pushed to GitHub
+- [x] ✅ Notebook: eigendecomposition, eigenvector visualization, simple PCA demonstration — pushed to GitHub
 
 ### Day 4 (Thursday) ⏰ 3hrs
 **Python Proficiency — Kaggle Python Course**
@@ -102,8 +102,8 @@ Work through every exercise, not just the ones that seem hard. The goal is speed
 
 Also complete 3Blue1Brown videos 14–16 (abstract vector spaces) if you haven't finished the series.
 
-- [ ] ✅ Kaggle Python course 100% complete with certificate earned
-- [ ] ✅ 3Blue1Brown Linear Algebra series complete
+- [x] ✅ Kaggle Python course 100% complete with certificate earned
+- [x] ✅ 3Blue1Brown Linear Algebra series complete
 
 ### Day 5 (Friday) ⏰ 3hrs
 **Data Manipulation — Pandas**
@@ -114,8 +114,8 @@ Pay special attention to `.groupby()`, `.merge()`, and handling missing values (
 
 Practice beyond the exercises: download any CSV from Kaggle Datasets, load it, and perform 10 different operations on it.
 
-- [ ] ✅ Kaggle Pandas course complete with certificate
-- [ ] ✅ Additional practice notebook with a real dataset — pushed to GitHub
+- [x] ✅ Kaggle Pandas course complete with certificate
+- [x] ✅ Additional practice notebook with a real dataset — pushed to GitHub
 
 ### Day 6 (Saturday — Project Day) ⏰ 4-5hrs
 **Data Visualization + First EDA Project**
@@ -131,8 +131,8 @@ Afternoon: Your first real mini-project. Go to kaggle.com/datasets, find a datas
 
 This is your first portfolio piece. Make it clean and readable.
 
-- [ ] ✅ Data Visualization certificate earned
-- [ ] ✅ Complete EDA notebook on a real dataset with 5+ visualizations — on GitHub
+- [x] ✅ Data Visualization certificate earned
+- [x] ✅ Complete EDA notebook on a real dataset with 5+ visualizations — on GitHub
 
 ### Day 7 (Sunday — Review + Consolidate) ⏰ 2hrs
 **Weekly Review**
@@ -148,9 +148,9 @@ Then test yourself: close all notebooks and answer these questions on paper or i
 
 If you can't answer any of these clearly, revisit that day's material.
 
-- [ ] ✅ All notebooks annotated
-- [ ] ✅ README updated with Week 1 summary
-- [ ] ✅ Self-test completed honestly
+- [x] ✅ All notebooks annotated
+- [x] ✅ README updated with Week 1 summary
+- [x] ✅ Self-test completed honestly
 
 ---
 
@@ -260,9 +260,9 @@ Implement merge sort from scratch in Python. Do not look at any implementation w
 
 Then implement counting inversions (a variation of merge sort) — this is Week 1's programming assignment.
 
-- [ ] ✅ Merge sort from scratch + timing analysis
-- [ ] ✅ Counting inversions implementation
-- [ ] ✅ Both pushed to GitHub under `/implementations/sorting/`
+- [x] ✅ Merge sort from scratch + timing analysis
+- [x] ✅ Counting inversions implementation
+- [x] ✅ Both pushed to GitHub under `/implementations/sorting/`
 
 ### Day 16 (Tuesday) ⏰ 3hrs
 **Algorithms — QuickSort + Randomization**
@@ -273,8 +273,8 @@ Implement quicksort with three pivot strategies: (1) always pick first element, 
 
 LeetCode: solve 2 problems (one array, one string).
 
-- [ ] ✅ Quicksort with 3 pivot strategies + benchmarks
-- [ ] ✅ 2 LeetCode problems solved
+- [x] ✅ Quicksort with 3 pivot strategies + benchmarks
+- [x] ✅ 2 LeetCode problems solved
 
 ### Day 17 (Wednesday) ⏰ 3hrs
 **Algorithms — Graph Basics + BFS/DFS**
@@ -287,8 +287,8 @@ These graph algorithms come back in neural network computation graphs, knowledge
 
 LeetCode: 2 graph/tree problems (Easy).
 
-- [ ] ✅ Graph representations + BFS + DFS + topological sort implementations
-- [ ] ✅ 2 LeetCode problems
+- [x] ✅ Graph representations + BFS + DFS + topological sort implementations
+- [x] ✅ 2 LeetCode problems
 
 ### Day 18 (Thursday) ⏰ 3hrs
 **Algorithms — Shortest Paths**
@@ -301,9 +301,9 @@ Then implement binary search from scratch — this doesn't come from the course 
 
 LeetCode: 2 binary search problems.
 
-- [ ] ✅ Dijkstra's algorithm implementation
-- [ ] ✅ Binary search (iterative + recursive)
-- [ ] ✅ 2 LeetCode problems
+- [x] ✅ Dijkstra's algorithm implementation
+- [x] ✅ Binary search (iterative + recursive)
+- [x] ✅ 2 LeetCode problems
 
 ### Day 19 (Friday) ⏰ 3hrs
 **ML Practice — Kaggle Titanic Competition Prep**
@@ -318,8 +318,8 @@ Read 2-3 highly-upvoted Kaggle notebooks for the Titanic competition. Don't copy
 
 Plan your approach for tomorrow.
 
-- [ ] ✅ Titanic EDA notebook with feature analysis
-- [ ] ✅ Written plan for tomorrow's competition submission
+- [x] ✅ Titanic EDA notebook with feature analysis
+- [x] ✅ Written plan for tomorrow's competition submission
 
 ### Day 20 (Saturday — Major Project Day) ⏰ 5-6hrs
 **FIRST KAGGLE COMPETITION: Titanic Survival Prediction**
@@ -337,9 +337,9 @@ This is your first end-to-end ML project. Execute the full pipeline without tuto
 
 Push the complete notebook to GitHub. This is a portfolio piece — make it clean.
 
-- [ ] ✅ Kaggle Titanic submission made — Score: ______
-- [ ] ✅ Complete, documented notebook on GitHub
-- [ ] ✅ At least 4 models compared with cross-validation
+- [x] ✅ Kaggle Titanic submission made — Score: ______
+- [x] ✅ Complete, documented notebook on GitHub
+- [x] ✅ At least 4 models compared with cross-validation
 
 ### Day 21 (Sunday — Review + Milestone) ⏰ 2hrs
 **3-Week Milestone Review**
@@ -354,9 +354,9 @@ Self-assessment — answer honestly:
 
 Write a summary X thread covering your first 3 weeks. Update your GitHub README comprehensively.
 
-- [ ] ✅ Self-assessment completed
-- [ ] ✅ GitHub repo fully organized with clear READMEs
-- [ ] ✅ 3-week milestone thread posted on X
+- [x] ✅ Self-assessment completed
+- [x] ✅ GitHub repo fully organized with clear READMEs
+- [x] ✅ 3-week milestone thread posted on X
 
 ---
 
@@ -378,7 +378,7 @@ Start Andrew Ng's Machine Learning Specialization on Coursera (audit free). Cour
 
 Complete all optional labs — they're in Jupyter notebooks using Python. Even if you already implemented gradient descent in Week 2, Ng frames it differently and the repetition from a new angle deepens understanding.
 
-- [ ] ✅ All Week 1 videos watched + labs complete
+- [x] ✅ All Week 1 videos watched + labs complete
 
 ### Day 23 (Tuesday) ⏰ 3-4hrs
 **Implement Linear Regression — No Libraries**
@@ -395,8 +395,8 @@ The purpose of implementing from scratch isn't to avoid scikit-learn — it's to
 
 LeetCode: 2 problems (hash maps).
 
-- [ ] ✅ Linear regression from scratch (single + multivariate) — pushed to GitHub
-- [ ] ✅ 2 LeetCode problems
+- [x] ✅ Linear regression from scratch (single + multivariate) — pushed to GitHub
+- [x] ✅ 2 LeetCode problems
 
 ### Day 24 (Wednesday) ⏰ 3hrs
 **Ng Course 1, Week 2: Multiple Features + Feature Scaling**
@@ -405,8 +405,8 @@ Watch Week 2 videos + complete labs. Key concepts: vectorized implementation (us
 
 After the labs, experiment with learning rates: run gradient descent with α = 0.001, 0.01, 0.1, 1.0 on the same dataset. Plot convergence curves for each. This builds intuition for hyperparameter tuning that you'll use throughout your career.
 
-- [ ] ✅ Week 2 videos + labs complete
-- [ ] ✅ Learning rate experiment notebook
+- [x] ✅ Week 2 videos + labs complete
+- [x] ✅ Learning rate experiment notebook
 
 ### Day 25 (Thursday) ⏰ 3hrs
 **Ng Course 1, Week 3: Classification + Logistic Regression**
@@ -415,7 +415,7 @@ Watch Week 3 videos + labs. Logistic regression introduces the sigmoid function,
 
 Pay special attention to the regularization section. Understand intuitively: L2 regularization pushes weights toward zero (but not exactly zero), while L1 regularization can push weights to exactly zero (creating sparse models). This matters for feature selection and model interpretability.
 
-- [ ] ✅ Week 3 videos + labs complete + quiz passed
+- [x] ✅ Week 3 videos + labs complete + quiz passed
 
 ### Day 26 (Friday) ⏰ 3-4hrs
 **Implement Logistic Regression — No Libraries**
@@ -432,8 +432,8 @@ Then compare your from-scratch implementation with `sklearn.linear_model.Logisti
 
 LeetCode: 2 problems (stacks/queues).
 
-- [ ] ✅ Logistic regression from scratch with regularization — pushed to GitHub
-- [ ] ✅ Comparison with scikit-learn implementation
+- [x] ✅ Logistic regression from scratch with regularization — pushed to GitHub
+- [x] ✅ Comparison with scikit-learn implementation
 
 ### Day 27 (Saturday — Project Day) ⏰ 5-6hrs
 **Kaggle House Prices Competition**
@@ -450,8 +450,8 @@ Go to kaggle.com/c/house-prices-advanced-regression-techniques. Execute:
 
 Aim for a score in the top 50% on your first attempt. You can iterate and improve later.
 
-- [ ] ✅ Kaggle House Prices submission — Score: ______
-- [ ] ✅ Complete pipeline notebook with 6+ models — pushed to GitHub
+- [x] ✅ Kaggle House Prices submission — Score: ______
+- [x] ✅ Complete pipeline notebook with 6+ models — pushed to GitHub
 
 ### Day 28 (Sunday) ⏰ 2hrs
 **Week 4 Review**
@@ -460,8 +460,8 @@ Review notebooks. Update README. Self-test: implement gradient descent for linea
 
 LeetCode: 1 Medium problem.
 
-- [ ] ✅ Self-test passed
-- [ ] ✅ Week 4 README update
+- [x] ✅ Self-test passed
+- [x] ✅ Week 4 README update
 
 ---
 
@@ -478,7 +478,7 @@ Complete all labs. In the TensorFlow lab, pay attention to the syntax but unders
 
 Key insight to internalize: a neural network is just a composition of simple functions. Layer 1 output feeds into Layer 2 input. That's it. The magic is in learning the weights through backpropagation.
 
-- [ ] ✅ Course 2 Week 1 complete (videos + labs + quiz)
+- [x] ✅ Course 2 Week 1 complete (videos + labs + quiz)
 
 ### Day 30 (Tuesday) ⏰ 3hrs
 **Ng Course 2, Weeks 2-3: Backpropagation + Practical Advice**
@@ -487,7 +487,7 @@ Week 2: How neural networks learn — backpropagation, activation function choic
 
 The Week 3 content on practical ML advice is underrated. Ng's framework for "what to try next when your model isn't working" will save you hundreds of hours over your career. The key decision tree: high bias → bigger network or more features. High variance → more data or regularization.
 
-- [ ] ✅ Course 2 Weeks 2-3 complete
+- [x] ✅ Course 2 Weeks 2-3 complete
 
 ### Day 31 (Wednesday) ⏰ 4hrs — THE MOST IMPORTANT DAY
 **KARPATHY: Building micrograd — Autograd from Scratch**
@@ -503,7 +503,7 @@ By the end of this lecture, you will have built a working autograd engine that c
 
 Do not rush this. Pause the video when needed. Make sure you understand every line. This is the single most important lecture in the entire 30-week plan.
 
-- [ ] ✅ Complete micrograd implementation coded along with Karpathy — pushed to GitHub
+- [x] ✅ Complete micrograd implementation coded along with Karpathy — pushed to GitHub
 
 ### Day 32 (Thursday) ⏰ 3-4hrs
 **Rebuild micrograd from MEMORY**
@@ -521,7 +521,7 @@ After rebuilding, test your engine by training a small neural network on a toy d
 
 LeetCode: 2 problems (linked lists).
 
-- [ ] ✅ Micrograd rebuilt from memory (or near-memory) — this version pushed to GitHub separately
+- [x] ✅ Micrograd rebuilt from memory (or near-memory) — this version pushed to GitHub separately
 
 ### Day 33 (Friday) ⏰ 3hrs
 **Ng Course 2, Week 4: Decision Trees + Ensemble Methods**
@@ -530,8 +530,8 @@ Complete the final week of Course 2: decision trees, random forests, XGBoost, wh
 
 Then start Course 3: "Unsupervised Learning, Recommenders and Reinforcement Learning." Complete Week 1: K-means clustering and anomaly detection.
 
-- [ ] ✅ Course 2 complete
-- [ ] ✅ Course 3 Week 1 complete
+- [x] ✅ Course 2 complete
+- [x] ✅ Course 3 Week 1 complete
 
 ### Day 34 (Saturday — Project Day) ⏰ 5hrs
 **KARPATHY: Building makemore Part 1 — Bigram Language Model**
@@ -542,7 +542,7 @@ The key insight: a bigram model says "given the previous character, what's the p
 
 After completing the lecture: try it with a different dataset. Download a list of words (city names, species names, whatever interests you) and train the bigram model on that. Observe what it generates.
 
-- [ ] ✅ Bigram language model complete + tested on custom dataset — pushed to GitHub
+- [x] ✅ Bigram language model complete + tested on custom dataset — pushed to GitHub
 
 ### Day 35 (Sunday) ⏰ 2hrs
 **Week 5 Review + Course 3 Completion**
@@ -551,8 +551,8 @@ Complete Ng Course 3 Weeks 2-3 (recommender systems and intro to RL). This finis
 
 Review your micrograd and makemore implementations. Update GitHub.
 
-- [ ] ✅ Andrew Ng ML Specialization — ALL 3 COURSES COMPLETE ✅
-- [ ] ✅ Week 5 summary posted on X
+- [x] ✅ Andrew Ng ML Specialization — ALL 3 COURSES COMPLETE ✅
+- [x] ✅ Week 5 summary posted on X
 
 ---
 
@@ -565,7 +565,7 @@ Watch and code along with "Building makemore Part 2: MLP." This upgrades from th
 
 Key concepts: character embeddings (turning characters into vectors), hidden layers, training loops, train/validation/test splits for language models. The embedding concept is crucial — it comes back in BERT, GPT, and every modern NLP model.
 
-- [ ] ✅ MLP language model complete — pushed to GitHub
+- [x] ✅ MLP language model complete — pushed to GitHub
 
 ### Day 37 (Tuesday) ⏰ 3-4hrs
 **KARPATHY: makemore Part 3 — Activations and Gradients**
@@ -576,7 +576,7 @@ Key skills: visualizing activation distributions per layer (are neurons dying?),
 
 These diagnostic skills separate people who can tune models from people who just run default settings and hope for the best.
 
-- [ ] ✅ Activations and gradients diagnostic notebook — pushed to GitHub
+- [x] ✅ Activations and gradients diagnostic notebook — pushed to GitHub
 
 ### Day 38 (Wednesday) ⏰ 3-4hrs
 **KARPATHY: makemore Part 4 — Becoming a Backprop Ninja**
@@ -587,7 +587,7 @@ This is painful. It is also the exercise that makes backpropagation truly yours.
 
 If you get completely stuck on a derivation, it's okay to watch Karpathy's solution — but try each one yourself for at least 10 minutes first.
 
-- [ ] ✅ Manual backprop through all operations — pushed to GitHub
+- [x] ✅ Manual backprop through all operations — pushed to GitHub
 
 ### Day 39 (Thursday) ⏰ 3-4hrs
 **KARPATHY: makemore Part 5 — WaveNet Architecture**
@@ -598,8 +598,8 @@ After completing this, the entire makemore series is done. You've gone from coun
 
 LeetCode: 2 problems (trees/graphs).
 
-- [ ] ✅ WaveNet implementation complete
-- [ ] ✅ Makemore series complete — all 5 parts on GitHub
+- [x] ✅ WaveNet implementation complete
+- [x] ✅ Makemore series complete — all 5 parts on GitHub
 
 ### Day 40 (Friday) ⏰ 3hrs
 **Start Ng Deep Learning Specialization**
@@ -608,7 +608,7 @@ Begin Andrew Ng's Deep Learning Specialization on Coursera (5 courses). Start Co
 
 Much of this will be review given the Karpathy work — that's intentional. Ng provides the mathematical formalism and notation that Karpathy teaches through code. Having both perspectives solidifies understanding.
 
-- [ ] ✅ DL Spec Course 1 Weeks 1-2 complete
+- [x] ✅ DL Spec Course 1 Weeks 1-2 complete
 
 ### Day 41 (Saturday — Project Day) ⏰ 5-6hrs
 **Customer Churn Prediction + DL Spec Progress**
@@ -621,20 +621,20 @@ The twist: this time, focus on evaluation metrics beyond accuracy. For churn pre
 
 Compare: Logistic Regression, Random Forest, XGBoost, and a simple neural network (using PyTorch or Keras).
 
-- [ ] ✅ DL Spec Course 1 COMPLETE
-- [ ] ✅ Churn prediction project with advanced evaluation — pushed to GitHub
+- [x] ✅ DL Spec Course 1 COMPLETE
+- [x] ✅ Churn prediction project with advanced evaluation — pushed to GitHub
 
 ### Day 42 (Sunday — 6-Week Milestone) ⏰ 2hrs
 **Milestone Review + Thread**
 
 Six weeks in. Assess your progress:
-- [ ] Ng ML Specialization complete (3 courses) ✅
-- [ ] Karpathy micrograd + all 5 makemore parts ✅
-- [ ] Ng DL Spec Course 1 complete ✅
-- [ ] 5 Kaggle certificates ✅
-- [ ] 3 Kaggle competition/project submissions ✅
-- [ ] 20+ LeetCode problems ✅
-- [ ] DSA: sorting, graph search, shortest paths ✅
+- [x] Ng ML Specialization complete (3 courses) ✅
+- [x] Karpathy micrograd + all 5 makemore parts ✅
+- [x] Ng DL Spec Course 1 complete ✅
+- [x] 5 Kaggle certificates ✅
+- [x] 3 Kaggle competition/project submissions ✅
+- [x] 20+ LeetCode problems ✅
+- [x] DSA: sorting, graph search, shortest paths ✅
 
 Write a milestone X thread. Update your GitHub portfolio comprehensively.
 
@@ -830,12 +830,12 @@ Check each box as you complete it. Review this table every Sunday.
 
 | Week | Phase | Key Milestone | Done |
 |------|-------|--------------|------|
-| 1 | Foundations | Linear algebra + Python + Pandas + first EDA project | ⬜ |
-| 2 | Foundations | Calculus + Probability + Loss functions + 5 Kaggle certs | ⬜ |
-| 3 | Foundations | DSA started + Titanic Kaggle competition submitted | ⬜ |
-| 4 | ML | Ng ML Spec Course 1 + Linear/Logistic regression from scratch + House Prices | ⬜ |
-| 5 | ML/DL | Ng Course 2 + **Micrograd from scratch** + makemore Part 1 | ⬜ |
-| 6 | ML/DL | Karpathy makemore complete (all 5 parts) + Ng ML Spec DONE + Churn project | ⬜ |
+| 1 | Foundations | Linear algebra + Python + Pandas + first EDA project | ✅ |
+| 2 | Foundations | Calculus + Probability + Loss functions + 5 Kaggle certs | ✅ |
+| 3 | Foundations | DSA started + Titanic Kaggle competition submitted | ✅ |
+| 4 | ML | Ng ML Spec Course 1 + Linear/Logistic regression from scratch + House Prices | ✅ |
+| 5 | ML/DL | Ng Course 2 + **Micrograd from scratch** + makemore Part 1 | ✅ |
+| 6 | ML/DL | Karpathy makemore complete (all 5 parts) + Ng ML Spec DONE + Churn project | ✅ |
 | 7 | DL | **GPT built from scratch** + Ng DL Spec Courses 2-3 | ⬜ |
 | 8 | DL | Ng DL Spec COMPLETE (all 5 courses) + CNN + RNN + Transfer Learning projects | ⬜ |
 | 9 | Advanced | MIT 6.S191 all labs + CS231n Assignment 1 + Fine-tuned nanoGPT | ⬜ |
