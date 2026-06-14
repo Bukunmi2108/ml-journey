@@ -1,1 +1,3 @@
 .venv/
+ffmpeg/fixtures/
+ffmpeg/docs/
