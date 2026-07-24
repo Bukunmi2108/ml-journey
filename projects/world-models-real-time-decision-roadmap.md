@@ -93,7 +93,7 @@ Each note should contain: one-sentence thesis, algorithm sketch, key losses/equa
 
 **Goal.** Own value functions and Bellman backups before deep RL.
 
-**Read.** Sutton & Barto, chapters 3-6 - https://incompleteideas.net/book/the-book-2nd.html - OpenAI Spinning Up, model-free vs model-based taxonomy - https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html
+**Read.** Sutton & Barto, chapters 3-6 - http://incompleteideas.net/book/the-book-2nd.html - OpenAI Spinning Up, model-free vs model-based taxonomy - https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html
 
 **Specs.** Small Gridworld. Deterministic and stochastic variants. CPU. Effort: 1 day.
 
