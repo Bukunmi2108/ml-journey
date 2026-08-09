@@ -1,5 +1,5 @@
 # MScFE 622 Group Work Project 1
-## Team Member C and Shared Step 3 — Report Integration Draft
+## Team Member C and Shared Step 3 - Report Integration Draft
 
 This draft holds the sections owned by Team Member C in a two-person group, plus the shared Step 3 work. It is not the final group report. Team Member A's Step 1(a) and Step 2(b) sections, the cover-page template, the team details, and the Carr–Madan comparison still need to be added.
 
